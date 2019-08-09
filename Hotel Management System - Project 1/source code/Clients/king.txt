@@ -1,0 +1,3 @@
+-----------------------------------------CLIENT LIST - KING SIZE BEDROOMS
+F.name: anna vidic  Age: 45  E.add: anna@gmail.com  NOD: 2  Rent: $35  R.service: $28  VAT: $18.9  Total: $126  Room type:king size bed  Date: Thu Nov 22 12:28:18 2018
+F.name: john lincon  Age: 77  E.add: john165@yahoo.com  NOD: 8  Rent: $35  R.service: $28  VAT: $75.6  Total: $504  Room type:king size bed  Date: Thu Nov 22 12:40:31 2018

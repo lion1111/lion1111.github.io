@@ -1,0 +1,46 @@
+-----------------------------------------CLIENT LIST DATABASE
+F.name: lionel van   Age: 23  E.add: lion44@gmail.com  NOD: 3  Rent: $35  R.service: $28  VAT: $28.35  Total: $189  Date: Mon Nov 12 07:51:39 2018
+F.name: lewis hamilton  Age: 34  E.add: lewis44@gmail.com  NOD: 3  Rent: $150  R.service: $28  VAT: $80.1  Total: $534  Date: Mon Nov 12 20:43:09 2018
+F.name: jacob brown  Age: 56  E.add: jay@yahoo.com  NOD: 2  Rent: $35  R.service: $28  VAT: $18.9  Total: $126  Date: Fri Nov 16 15:41:48 2018
+F.name: alex wassabi  Age: 27  E.add: ally@gmail.com  NOD: 5  Rent: $150  R.service: $28  VAT: $133.5  Total: $890  Date: Fri Nov 16 15:50:05 2018
+F.name: lauren diy  Age: 25  E.add: littlelaur@yahoo.com  NOD: 8  Rent: $150  R.service: $28  VAT: $213.6  Total: $1424  Date: Fri Nov 16 15:52:18 2018
+F.name: malu trevo  Age: 18  E.add: malu23@yahoo.com  NOD: 6  Rent: $150  R.service: $28  VAT: $160.2  Total: $1068  Date: Fri Nov 16 15:54:33 2018
+F.name: bryan rolls  Age: 89  E.add: brea@hotmail.com  NOD: 2  Rent: $10  R.service: $28  VAT: $11.4  Total: $76  Date: Fri Nov 16 15:57:32 2018
+F.name: veronica fresco  Age: 22  E.add: vee@gmail.com  NOD: 44  Rent: $10  R.service: $28  VAT: $250.8  Total: $1672  Date: Fri Nov 16 16:03:01 2018
+F.name: shay mitchell  Age: 26  E.add: shay@yahoo.com  NOD: 19  Rent: $150  R.service: $28  VAT: $507.3  Total: $3382  Room type:luxury suit  Date: Sat Nov 17 10:52:40 2018
+F.name: micheal jackson  Age: 56  E.add: micky@yahoo.com  NOD: 4  Rent: $10  R.service: $28  VAT: $22.8  Total: $152  Room type:single bedroom  Date: Sat Nov 17 11:49:17 2018
+F.name: jessica alba  Age: 45  E.add: jessy@gmail.com  NOD: 2  Rent: $10  R.service: $28  VAT: $12.9  Total: $86  Room type:double bedroom  Date: Sat Nov 17 11:53:30 2018
+F.name: mary vee  Age: 23  E.add: bells@yahoo.com  NOD: 4  Rent: $10  R.service: $28  VAT: $25.8  Total: $172  Room type:double bedroom  Date: Sat Nov 17 11:55:54 2018
+F.name: medina orbit  Age: 21  E.add: med@yahoo.com  NOD: 3  Rent: $15  R.service: $28  VAT: $19.35  Total: $129  Room type:double bedroom  Date: Sat Nov 17 12:08:02 2018
+F.name: mindy man  Age: 58  E.add: midz@yahoo.com  NOD: 6  Rent: $15  R.service: $28  VAT: $38.7  Total: $258  Room type:double bedroom  Date: Sat Nov 17 12:10:39 2018
+F.name: brice lovemore  Age: 77  E.add: rice78@yahoo.com  NOD: 9  Rent: $10  R.service: $28  VAT: $51.3  Total: $342  Room type:single bedroom  Date: Sat Nov 17 12:13:24 2018
+F.name: wanda omar  Age: 24  E.add: omi@gmail.com  NOD: 4  Rent: $150  R.service: $28  VAT: $106.8  Total: $712  Room type:luxury suite  Date: Sat Nov 17 12:23:42 2018
+F.name: beyonce z  Age: 55  E.add: b@queen.com  NOD: 8  Rent: $25  R.service: $28  VAT: $63.6  Total: $424  Room type:queen size bed  Date: Sat Nov 17 12:29:28 2018
+F.name: claudia vin  Age: 45  E.add: vinny@yahoo.com  NOD: 3  Rent: $10  R.service: $28  VAT: $17.1  Total: $114  Room type:single bedroom  Date: Sat Nov 17 12:49:07 2018
+F.name: amanda green  Age: 55  E.add: green@yahoo.com  NOD: 7  Rent: $150  R.service: $28  VAT: $186.9  Total: $1246  Room type:luxury suite  Date: Sat Nov 17 12:53:17 2018
+F.name: norman greenfield  Age: 89  E.add: norms22@yahoo.com  NOD: 5  Rent: $150  R.service: $28  VAT: $133.5  Total: $890  Room type:luxury suite  Date: Sat Nov 17 12:59:18 2018
+F.name: mandy redswell  Age: 25  E.add: mans@gmail.com  NOD: 14  Rent: $10  R.service: $28  VAT: $79.8  Total: $532  Room type:single bedroom  Date: Sat Nov 17 16:10:18 2018
+F.name: candice roadwick  Age: 29  E.add: wheels@yahoo.com  NOD: 1  Rent: $10  R.service: $28  VAT: $5.7  Total: $38  Room type:single bedroom  Date: Sat Nov 17 16:12:19 2018
+F.name: john snow  Age: 45  E.add: jonnyboy@hotmail.com  NOD: 3  Rent: $10  R.service: $28  VAT: $17.1  Total: $114  Room type:single bedroom  Date: Sat Nov 17 16:13:34 2018
+F.name: camaron dias  Age: 22  E.add: came@yahoo.com  NOD: 3  Rent: $10  R.service: $12  VAT: $9.9  Total: $66  Room type:single bedroom  Date: Sat Nov 17 16:14:24 2018
+F.name: lewis hamilton  Age: 34  E.add: lew@yahoo.com  NOD: 3  Rent: $10  R.service: $28  VAT: $17.1  Total: $114  Room type:single bedroom  Date: Sat Nov 17 16:19:19 2018
+F.name: becky g  Age: 23  E.add: becks@yahoo.com  NOD: 4  Rent: $10  R.service: $28  VAT: $22.8  Total: $152  Room type:single bedroom  Date: Sat Nov 17 18:05:05 2018
+F.name: malcolm black  Age: 32  E.add: cricket@gmail.com  NOD: 5  Rent: $10  R.service: $28  VAT: $28.5  Total: $190  Room type:single bedroom  Date: Sat Nov 17 18:08:14 2018
+F.name: barney garner  Age: 45  E.add: classy@gmail.com  NOD: 5  Rent: $10  R.service: $28  VAT: $28.5  Total: $190  Room type:single bedroom  Date: Sat Nov 17 18:21:34 2018
+F.name: camilo everrhcy  Age: 26  E.add: camilo@yahoo.com  NOD: 2  Rent: $15  R.service: $28  VAT: $12.9  Total: $86  Room type:double bedroom  Date: Sat Nov 17 18:31:08 2018
+F.name: anna vidic  Age: 45  E.add: anna@gmail.com  NOD: 2  Rent: $35  R.service: $28  VAT: $18.9  Total: $126  Room type:king size bed  Date: Thu Nov 22 12:28:18 2018
+F.name: john lincon  Age: 77  E.add: john165@yahoo.com  NOD: 8  Rent: $35  R.service: $28  VAT: $75.6  Total: $504  Room type:king size bed  Date: Thu Nov 22 12:40:31 2018
+F.name: micaela curls  Age: 22  E.add: mickey@gmail.com  NOD: 2  Rent: $10  R.service: $28  VAT: $11.4  Total: $76  Room type:single bedroom  Date: Thu Nov 22 12:55:32 2018
+F.name: jonny depp  Age: 49  E.add: deppin22@yahoo.com  NOD: 7  Rent: $10  R.service: $28  VAT: $39.9  Total: $266  Room type:single bedroom  Date: Thu Nov 22 12:56:16 2018
+F.name: yuki su  Age: 31  E.add: yuji@yahoo.com  NOD: 5  Rent: $10  R.service: $7  VAT: $12.75  Total: $85  Room type:single bedroom  Date: Thu Nov 22 12:57:12 2018
+F.name: james corden  Age: 56  E.add: corden@gmail.com  NOD: 2  Rent: $10  R.service: $28  VAT: $11.4  Total: $76  Room type:single bedroom  Date: Thu Nov 22 12:58:08 2018
+F.name: david mcdonald slapnard  Age: 89  E.add: appme@gmail.com  NOD: 4  Rent: $10  R.service: $28  VAT: $22.8  Total: $152  Room type:single bedroom  Date: Thu Nov 22 12:59:00 2018
+F.name: kylie witney  Age: 18  E.add: cake@yahoo.com  NOD: 3  Rent: $10  R.service: $28  VAT: $17.1  Total: $114  Room type:single bedroom  Date: Thu Nov 22 13:00:02 2018
+F.name: courney kudzi  Age: 34  E.add: courts@hotmail.com  NOD: 4  Rent: $10  R.service: $28  VAT: $22.8  Total: $152  Room type:single bedroom  Date: Thu Nov 22 13:00:53 2018
+F.name: lionel van  Age: 22  E.add: lion@yahoo.com  NOD: 2  Rent: $10  R.service: $28  VAT: $11.4  Total: $76  Room type:single bedroom  Date: Thu Nov 22 14:06:43 2018
+F.name: jaden yuki  Age: 35  E.add: jay@hotmail.com  NOD: 2  Rent: $10  R.service: $12  VAT: $6.6  Total: $44  Room type:single bedroom  Date: Thu Nov 22 14:10:57 2018
+F.name: james bond  Age: 48  E.add: james@911.com  NOD: 3  Rent: $15  R.service: $28  VAT: $19.35  Total: $129  Room type:double bedroom  Date: Tue Nov 27 15:44:21 2018
+F.name: courtney naidoo  Age: 29  E.add: courtno@yahoo.com  NOD: 5  Rent: $10  R.service: $28  VAT: $28.5  Total: $190  Room type:single bedroom  Date: Thu Nov 29 12:15:52 2018
+F.name: joshua coolant  Age: 34  E.add: jos333@gmail.com  NOD: 2  Rent: $150  R.service: $12  VAT: $48.6  Total: $324  Room type:luxury suite  Date: Thu Nov 29 12:17:03 2018
+F.name: macy crow  Age: 21  E.add: mac@apple.com  NOD: 2  Rent: $10  R.service: $12  VAT: $6.6  Total: $44  Room type:single bedroom  Date: Thu Nov 29 12:20:56 2018
+F.name: hannah stall  Age: 34  E.add: hans@yahoo.com  NOD: 5  Rent: $10  R.service: $28  VAT: $28.5  Total: $190  Room type:single bedroom  Date: Thu Nov 29 12:24:43 2018

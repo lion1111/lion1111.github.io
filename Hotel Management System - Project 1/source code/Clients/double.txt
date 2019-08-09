@@ -1,0 +1,3 @@
+-----------------------------------------CLIENT LIST - DOUBLE BED ROOMS
+F.name: camilo everrhcy  Age: 26  E.add: camilo@yahoo.com  NOD: 2  Rent: $15  R.service: $28  VAT: $12.9  Total: $86  Room type:double bedroom  Date: Sat Nov 17 18:31:08 2018
+F.name: Leonard Britz Collins   Age: 28  E.add: leo12@yahoo.com  NOD: 5  Rent: $15  R.service: $28  VAT: $32.25  Total: $215  Room type:double bedroom  Date: Tue Nov 27 15:40:04 2018

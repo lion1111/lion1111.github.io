@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>Bill.h</itemPath>
+      <itemPath>Guest.h</itemPath>
+      <itemPath>Management.h</itemPath>
+      <itemPath>Reception.h</itemPath>
+      <itemPath>Rooms.h</itemPath>
+      <itemPath>custom_main.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Bill.cpp</itemPath>
+      <itemPath>Guest.cpp</itemPath>
+      <itemPath>Management.cpp</itemPath>
+      <itemPath>Reception.cpp</itemPath>
+      <itemPath>Rooms.cpp</itemPath>
+      <itemPath>custom_main.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="Bill.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Bill.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Guest.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Guest.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Management.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Management.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Reception.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Reception.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Rooms.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Rooms.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="custom_main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="custom_main.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Bill.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Bill.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Guest.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Guest.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Management.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Management.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Reception.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Reception.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Rooms.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Rooms.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="custom_main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="custom_main.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

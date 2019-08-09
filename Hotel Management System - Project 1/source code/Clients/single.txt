@@ -1,0 +1,4 @@
+-------------------CLIENT LIST - SINGLE BEDROOMS
+F.name: becky g  Age: 23  E.add: becks@yahoo.com  NOD: 4  Rent: $10  R.service: $28  VAT: $22.8  Total: $152  Room type:single bedroom  Date: Sat Nov 17 18:05:05 2018
+F.name: malcolm black  Age: 32  E.add: cricket@gmail.com  NOD: 5  Rent: $10  R.service: $28  VAT: $28.5  Total: $190  Room type:single bedroom  Date: Sat Nov 17 18:08:14 2018
+F.name: hannah stall  Age: 34  E.add: hans@yahoo.com  NOD: 5  Rent: $10  R.service: $28  VAT: $28.5  Total: $190  Room type:single bedroom  Date: Thu Nov 29 12:24:43 2018
