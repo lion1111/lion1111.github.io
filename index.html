@@ -99,6 +99,25 @@
 									<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 								</ul>
 							</article>
+						
+						<?php 
+                                                     if(isset($_POST['submit'])){
+                                                        $name = $_POST['name'];
+                                                        $email = $_POST['email'];
+                                                        $message = $_POST['message'];
+
+                                                        $to = 'lioneljoseph15@yahoo.com';
+                                                        $subject = 'Form submission';
+                                                        $message = "Name: ".$name."\n". "Phone: ".$phone:"\n"."Wrote the following:"."\n\n".$msg;
+                                                        $headers = "From: ".$email;
+
+                                                        if(mail($to,$subject,$message,$headers)){
+                                                        echo"<h1> Sent successfully! Thank you</h1>"
+                                                        }else{
+                                                        echo"Something went wrong";
+                                                        }
+                                                        }
+                                                ?>
 
 						<!-- Elements -->
 							<article id="elements">
