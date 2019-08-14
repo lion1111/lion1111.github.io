@@ -74,7 +74,35 @@
 						<!-- Contact -->
 							<article id="contact">
 								<h2 class="major">Contact</h2>
-								<form method="post" action="#">
+								
+								<form action="https://formspree.io/lioneljoseph15@yahoo.com" method="POST">
+                                                                <div class="fields">
+									<div class"field half">
+										<label for="name">Name</label>
+									           <input type="text" name="name">
+									</div>
+									
+									<div class="field half">
+											<label for="email">Email</label>
+											<input type="email" name="_replyto">
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="4"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send" class="primary"/></li>
+										<li><input type="reset" value="Reset" /></li>
+									</ul>
+								</form>
+								<ul class="icons">
+									<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+                                                                </form>
+								
+								<!--<form method="post" action="#">
 									<div class="fields">
 										<div class="field half">
 											<label for="name">Name</label>
@@ -98,26 +126,8 @@
 									<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 									<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 								</ul>
+                                                                -->
 							</article>
-						
-						<?php 
-                                                     if(isset($_POST['submit'])){
-                                                        $name = $_POST['name'];
-                                                        $email = $_POST['email'];
-                                                        $message = $_POST['message'];
-
-                                                        $to = 'lioneljoseph15@yahoo.com';
-                                                        $subject = 'Form submission';
-                                                        $message = "Name: ".$name."\n". "Phone: ".$phone:"\n"."Wrote the following:"."\n\n".$msg;
-                                                        $headers = "From: ".$email;
-
-                                                        if(mail($to,$subject,$message,$headers)){
-                                                        echo"<h1> Sent successfully! Thank you</h1>"
-                                                        }else{
-                                                        echo"Something went wrong";
-                                                        }
-                                                        }
-                                                ?>
 
 						<!-- Elements -->
 							<article id="elements">
