@@ -1,2 +1,0 @@
------------------------------------------CLIENT LIST - QUEEN SIZE BEDROOMS
-F.name: beyonce z  Age: 55  E.add: b@queen.com  NOD: 8  Rent: $25  R.service: $28  VAT: $63.6  Total: $424  Room type:queen size bed  Date: Sat Nov 17 12:29:28 2018
