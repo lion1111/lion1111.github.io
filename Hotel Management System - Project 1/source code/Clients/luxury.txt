@@ -1,2 +1,0 @@
------------------------------------------CLIENT LIST - LUXURY ROOMS
-F.name: wanda omar  Age: 24  E.add: omi@gmail.com  NOD: 4  Rent: $150  R.service: $28  VAT: $106.8  Total: $712  Room type:luxury suite  Date: Sat Nov 17 12:23:42 2018
