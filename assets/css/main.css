@@ -141,7 +141,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #7f7d6e;
+		color: #56554c;
 		font-family: "Source Sans Pro", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
@@ -943,7 +943,7 @@ input, select, textarea {
 	}
 
 		table tbody tr {
-			border: solid 1px #ffffff;
+			border: solid 1px #000;
 			border-left: 0;
 			border-right: 0;
 		}
@@ -957,7 +957,7 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #ffffff;
+			color: #000;
 			font-size: 0.9em;
 			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
