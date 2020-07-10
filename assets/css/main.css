@@ -1175,6 +1175,7 @@ input, select, textarea {
 			-webkit-filter: blur(0.2rem);
 			-ms-filter: blur(0.2rem);
 			filter: blur(0.2rem);
+			background-color: #eeebd9;
 		}
 
 		body.is-preload #bg:before {
