@@ -95,7 +95,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #eeebd9 !important;
+		background: #000;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -145,6 +145,7 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
+		background-color: #eeebd9 !important;
 	}
 
 	a {
