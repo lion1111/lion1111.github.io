@@ -9,10 +9,43 @@
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 		<style>
 			div.logo{display:none;}
-			tooltip{
-			        color:#fff;
-				background:#000;
-			}
+			.tooltip {
+                           position: relative;
+                           display: inline-block;
+                           border-bottom: 1px dotted black;
+                          }
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+			
+			.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
 		</style>
 	</head>
 	<body class="is-preload">
@@ -120,8 +153,9 @@
 								  <table>
 								     <div class="gallery">
                                                                          <a target="_blank" href="images/Pride-Power-Electrical.png" style="text-decoration:none;">
-                                                                           <img src="images/Pride-Power-Electrical.png" id="tooltip" alt="Pride Power Electrical Logo Design" width="250" height="180" style="border-radius:50px">
-								         </a>
+                                                                           <img src="images/Pride-Power-Electrical.png" class="tooltip" alt="Pride Power Electrical Logo Design" width="250" height="180" style="border-radius:50px">
+										 <span class="tooltiptext"> I'd designed this one for a client during my internship at Angel & Walt Incorporated</span>
+									     </a>
                                                                       <div class="desc">Pride Power Electrical Logo design</div>
                                                                      </div><br/>
 								     <div class="gallery">
